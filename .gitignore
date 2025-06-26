@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.keras
+.env
+.vscode/
+rice_leaf_model.keras
+.DS_Store
